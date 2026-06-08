@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Divyanshu 👋
 
-<!--
-**HeIsGlitched/HeIsGlitched** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- Full Stack Web Development
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Working on:
+- Personal Projects
+- DSA Practice
+
+📚 Goal:
+Secure a Web developer Internship and become a better engineer every day.
