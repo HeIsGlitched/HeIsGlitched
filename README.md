@@ -11,4 +11,4 @@
 - DSA Practice
 
 📚 Goal:
-Secure a Web developer Internship and become a better engineer every day.
+To secure an internship and gain experience
