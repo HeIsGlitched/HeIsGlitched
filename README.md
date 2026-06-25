@@ -10,5 +10,3 @@
 - Personal Projects
 - DSA Practice
 
-📚 Goal:
-To secure an internship and gain experience
