@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building **HabitraAI** – an AI-powered habit tracker
+🔭 Building **HabitraAI** – an AI-powered habit tracker <br>
 🌱 Learning **Data Structures & Algorithms** and **Full Stack Web Development**
 
 # 💻 Tech Stack:
