@@ -2,6 +2,10 @@
 🔭 I’m currently working on HabitraAI<br>🌱 I’m currently learning DSA and Full Stack Web Development<br>
 
 
+# 🧩 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu042004?theme=dark&font=Karma)
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
