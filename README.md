@@ -1,6 +1,5 @@
 # Hi, I'm Divyanshu 👋
 
-# 💫 About Me:
 🔭 Currently working on HabitraAI<br>🌱 Currently learning DSA and Full Stack Web Development<br>
 
 
